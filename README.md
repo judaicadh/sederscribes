@@ -1,6 +1,6 @@
 # Seder Scribes Image Sources
 
-## Below are links to the images of the fragments used in the Scribes of the Seder Haggadah for 2018. To learn more about the Haggadah click here. To see the haggadah click here. 
+## Below are links to the images of the fragments used in the Scribes of the Seder Haggadah for 2018. To learn more about the Haggadah click [here]. To see the Haggadah [click here]. 
 
 **Kadesh**
 
