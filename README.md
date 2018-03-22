@@ -291,3 +291,9 @@ The Library of the Jewish Theological Seminary, JTS ENA 1697.12
 https://panoptes-uploads.zooniverse.org/production/subject_location/1f17c752-f856-45d5-953c-3ca6a551a2cb.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/a13341d9-a2c1-44f2-afe8-739530213361.jpeg
 
+
+**Letter with Passover Poem**
+
+The Library of the Jewish Theological Seminary, JTS ENA 2741.5.1
+
+https://panoptes-uploads.zooniverse.org/production/subject_location/03bf27b4-5eb6-456a-bbc7-afdeb34efc85.jpeg
