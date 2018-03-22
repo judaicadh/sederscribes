@@ -1,5 +1,6 @@
 # Seder Scribes Image Sources
 
+## Below are links to the images of the fragments used in the Scribes of the Seder Haggadah for 2018. To learn more about the Haggadah click here. To see the haggadah click here. 
 
 **Kadesh**
 
@@ -28,7 +29,7 @@ https://panoptes-uploads.zooniverse.org/production/subject_location/9535f562-8a7
 https://panoptes-uploads.zooniverse.org/production/subject_location/e2486f16-6ef2-4da5-9760-1ab1827e64f4.jpeg
 
 
-**Magid, Story of the Five Rabbis
+**Magid, Story of the Five Rabbis**
 
 https://panoptes-uploads.zooniverse.org/production/subject_location/8c7eeb17-2954-4283-ac81-97599d7dfe59.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/1102db14-0abd-43da-8fb6-e714be53d394.jpeg
@@ -197,9 +198,4 @@ https://panoptes-uploads.zooniverse.org/production/subject_location/227703c8-207
 
 https://panoptes-uploads.zooniverse.org/production/subject_location/1f17c752-f856-45d5-953c-3ca6a551a2cb.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/a13341d9-a2c1-44f2-afe8-739530213361.jpeg
-
-
-
-
-
 
