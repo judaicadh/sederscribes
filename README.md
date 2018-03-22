@@ -4,12 +4,14 @@
 
 **Kadesh**
 
+JTS ENA 2945.20
 https://panoptes-uploads.zooniverse.org/production/subject_location/50dd67a9-9728-4195-a8e4-7c59b9708ba9.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/9012a94d-fb7b-4985-be5d-520b768b7477.jpeg
 
 
 **Karpas**
 
+JTS ENA 2150.34
 https://panoptes-uploads.zooniverse.org/production/subject_location/c5d6a876-e0c9-4b6e-b02f-829af7766f92.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/51177364-3b0c-440c-9756-f9852977e7e2.jpeg
 
