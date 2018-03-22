@@ -185,7 +185,7 @@ https://panoptes-uploads.zooniverse.org/production/subject_location/29473fed-e7b
 https://panoptes-uploads.zooniverse.org/production/subject_location/ad4e200b-d863-4e19-b55e-029972311f9a.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/5462887f-8692-4ef7-86e1-b8e45ee09d5e.jpeg
 
-**Hallel, Songs of Praise and Thanks
+**Hallel, Songs of Praise and Thanks**
 
 https://panoptes-uploads.zooniverse.org/production/subject_location/494b5ed5-3dd8-4e0b-a0ac-a440597fd1a4.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/d8d61dc2-3d19-49c8-bdea-e59161e66958.jpeg
