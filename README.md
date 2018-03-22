@@ -77,12 +77,12 @@ The Library of the Jewish Theological Seminary, JTS ENA 594.8
 https://panoptes-uploads.zooniverse.org/production/subject_location/c3f418ef-42ee-480c-b9e4-892ad230fa60.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/1bd1cd63-ff00-4bff-af85-8c9cd5bedeb4.jpeg
 
-The Library of the Jewish Theological Seminary, JTS ENA
+The Library of the Jewish Theological Seminary, JTS ENA 2945.21
 
 https://panoptes-uploads.zooniverse.org/production/subject_location/f2876659-b99c-4e9f-b4ee-b391ab36d04d.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/aef5bd98-14ba-4999-977c-ca4057000bd7.jpeg
 
-The Library of the Jewish Theological Seminary, JTS ENA
+The Library of the Jewish Theological Seminary, JTS ENA 2150.38
 
 https://panoptes-uploads.zooniverse.org/production/subject_location/27fad971-ad73-43dd-998d-9751cab45458.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/c235fc0a-f0eb-4a38-81e2-560d07235e35.jpeg
@@ -90,23 +90,35 @@ https://panoptes-uploads.zooniverse.org/production/subject_location/c235fc0a-f0e
 
 **Magid, First Fruits Declaration**
 
+The Library of the Jewish Theological Seminary, JTS ENA 2322.1
+
 https://panoptes-uploads.zooniverse.org/production/subject_location/ec2ec035-e849-4ddf-8633-6f9a3720e9ab.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/d9550185-69e0-4e54-9435-d8698d1d63c8.jpeg
 
-https://panoptes-uploads.zooniverse.org/production/subject_location/f9e7253f-3b6b-453f-a30b-f1724bd8df86.jpeg
-https://panoptes-uploads.zooniverse.org/production/subject_location/96ce80aa-c7f9-4561-bdd7-0eaddd5a5375.jpeg
-
-https://panoptes-uploads.zooniverse.org/production/subject_location/30c0e074-07c8-4433-b7bd-b53197370261.jpeg
-https://panoptes-uploads.zooniverse.org/production/subject_location/45e1a1e4-623b-48c9-b730-386d7445c103.jpeg
+The Library of the Jewish Theological Seminary, JTS ENA 2322.2
 
 https://panoptes-uploads.zooniverse.org/production/subject_location/a5f39259-cdef-4405-af75-6831a2723b52.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/4c11ab03-6e5e-4412-b2db-24054e3af0ab.jpeg
 
+The Library of the Jewish Theological Seminary, JTS ENA 2322.3
+
 https://panoptes-uploads.zooniverse.org/production/subject_location/eccb4571-479c-4826-875a-ee430020568a.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/14971b29-0483-4198-8186-8d9b04c516b6.jpeg
 
+The Library of the Jewish Theological Seminary, JTS ENA 2322.4
+
 https://panoptes-uploads.zooniverse.org/production/subject_location/8918bc71-df67-46d5-a9bb-78d905563d4b.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/db301a39-3175-435d-9701-886f0fad4f56.jpeg
+
+The Library of the Jewish Theological Seminary, JTS ENA 3029.7
+
+https://panoptes-uploads.zooniverse.org/production/subject_location/30c0e074-07c8-4433-b7bd-b53197370261.jpeg
+https://panoptes-uploads.zooniverse.org/production/subject_location/45e1a1e4-623b-48c9-b730-386d7445c103.jpeg
+
+The Library of the Jewish Theological Seminary, JTS ENA 3029.8
+
+https://panoptes-uploads.zooniverse.org/production/subject_location/f9e7253f-3b6b-453f-a30b-f1724bd8df86.jpeg
+https://panoptes-uploads.zooniverse.org/production/subject_location/96ce80aa-c7f9-4561-bdd7-0eaddd5a5375.jpeg
 
 Penn Libraries, University of Pennsylvania, Herbert D. Katz Center for Advanced Judaic Studies Library, Cairo Genizah Collection, Halper 212
 
@@ -118,21 +130,29 @@ http://openn.library.upenn.edu/Data/0002/html/h214.html
 
 **Magid, The Ten Plagues**
 
+The Library of the Jewish Theological Seminary, JTS ENA 2322.5
+
 https://panoptes-uploads.zooniverse.org/production/subject_location/65133bf9-b2ab-4bd5-9294-5d448811618e.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/17c19ee3-0530-44d7-9146-9e80d39fc887.jpeg
+
+The Library of the Jewish Theological Seminary, JTS ENA 2322.2
 
 https://panoptes-uploads.zooniverse.org/production/subject_location/b660fd81-446e-4576-b748-6f203e84074c.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/53b4c4f6-aa39-434d-940e-285bc951fa64.jpeg
 
 
+The Library of the Jewish Theological Seminary, JTS ENA 2150.28
+
 https://panoptes-uploads.zooniverse.org/production/subject_location/bddc24a7-b302-40cc-b4bd-ae9b29503bea.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/da71099b-36e0-447c-a9b9-d51f8468fcdb.jpeg
 
-https://panoptes-uploads.zooniverse.org/production/subject_location/89daffd5-ebe3-4fd8-8b17-3d1c3b3735de.jpeg
-https://panoptes-uploads.zooniverse.org/production/subject_location/32f31e07-854a-4c60-989e-2c51a7866cc1.jpeg
+
+The Library of the Jewish Theological Seminary, JTS ENA 2150.9
 
 https://panoptes-uploads.zooniverse.org/production/subject_location/761041e8-688f-473a-b03e-984e522c1996.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/458fad85-f4fc-4071-a3f9-f0774d787fd3.jpeg
+
+The Library of the Jewish Theological Seminary, JTS ENA 2150.39
 
 https://panoptes-uploads.zooniverse.org/production/subject_location/901f4e4a-0101-44ed-aeda-5fcc5a230cec.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/00917179-8a63-4183-b0b6-851d9b9311ac.jpeg
@@ -140,17 +160,27 @@ https://panoptes-uploads.zooniverse.org/production/subject_location/00917179-8a6
 
 **Magid, Dayenu**
 
+The Library of the Jewish Theological Seminary, JTS ENA 2322.7
+
 https://panoptes-uploads.zooniverse.org/production/subject_location/bf5e84c2-8322-4286-b712-b162650a9d16.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/c77c0af2-ea8b-400e-83ca-009eff792896.jpeg
+
+The Library of the Jewish Theological Seminary, JTS ENA 2322.8
 
 https://panoptes-uploads.zooniverse.org/production/subject_location/a26d2daa-3c40-4ec3-901e-67125643440a.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/fb26656f-5f18-4f3e-9aaf-f4e3978c6e52.jpeg
 
+The Library of the Jewish Theological Seminary, JTS ENA 2057.2
+
 https://panoptes-uploads.zooniverse.org/production/subject_location/50b4a5ed-4940-44d2-b646-45da31c5e87a.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/3125fdaa-2cb6-4801-ad71-c57c913d4d1f.jpeg
 
+The Library of the Jewish Theological Seminary, JTS ENA 2961.8
+
 https://panoptes-uploads.zooniverse.org/production/subject_location/a3e576fd-fdc9-4789-a1ac-e05b55f42ada.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/e7bfa3b0-e231-4a25-95a9-ab687ab4eb74.jpeg
+
+Penn Libraries, University of Pennsylvania, Herbert D. Katz Center for Advanced Judaic Studies Library, Cairo Genizah Collection, Halper 213
 
 http://openn.library.upenn.edu/Data/0002/html/h213.html
 
