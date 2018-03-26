@@ -254,7 +254,7 @@ https://panoptes-uploads.zooniverse.org/production/subject_location/622ee3d4-e0f
 
 Penn Libraries, University of Pennsylvania, Herbert D. Katz Center for Advanced Judaic Studies Library, Cairo Genizah Collection, Halper 211
 
-http://openn.library.upenn.edu/Data/0002/html/h215.html
+http://openn.library.upenn.edu/Data/0002/html/h211.html
 
 **Hallel, Second Half of Hallel**
 
