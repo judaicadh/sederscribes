@@ -250,6 +250,12 @@ The Library of the Jewish Theological Seminary, JTS ENA 2322.13
 https://panoptes-uploads.zooniverse.org/production/subject_location/e6fcc3a5-adab-4b71-9a20-3a8bf9e937e4.jpeg
 https://panoptes-uploads.zooniverse.org/production/subject_location/622ee3d4-e0f2-4efc-9635-9969697c5a4d.jpeg
 
+**Barech, Birkat Hamazon**
+
+Penn Libraries, University of Pennsylvania, Herbert D. Katz Center for Advanced Judaic Studies Library, Cairo Genizah Collection, Halper 211
+
+http://openn.library.upenn.edu/Data/0002/html/h215.html
+
 **Hallel, Second Half of Hallel**
 
 The Library of the Jewish Theological Seminary, JTS ENA 2322.14
