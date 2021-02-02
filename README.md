@@ -303,3 +303,8 @@ https://panoptes-uploads.zooniverse.org/production/subject_location/a13341d9-a2c
 The Library of the Jewish Theological Seminary, JTS ENA 2741.5.1
 
 https://panoptes-uploads.zooniverse.org/production/subject_location/03bf27b4-5eb6-456a-bbc7-afdeb34efc85.jpeg
+
+
+# This is a Judaica Digital Humanities at the Penn Libraries repository.
+Judaica Digital Humanities at the <a href="http://library.upenn.edu">Penn Libraries</a> (also referred to as Judaica DH) is a robust program of projects and tools for experimental digital scholarship with Judaica collections, informed by digital humanities, Jewish studies, and cultural heritage approaches. Visit our [website](judaicadh.github.io).
+
